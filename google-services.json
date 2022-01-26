@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354426386393",
+    "project_id": "lapapps-bbbcb",
+    "storage_bucket": "lapapps-bbbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354426386393:android:25a5362187775e44318bc8",
+        "android_client_info": {
+          "package_name": "com.lap.roboml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354426386393-7gget922t39qsvk9r5ktslbdfjjr4nu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDb8er9yyqPHLd5zXXZQSXxK3NDA9yuCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354426386393-7gget922t39qsvk9r5ktslbdfjjr4nu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
